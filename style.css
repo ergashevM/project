@@ -427,7 +427,7 @@ header nav.navbar .navs-box-three .active {
   color: #000;
   border-bottom: 1px solid #d4d4d4;
 }
-.magazin .filter-box .filter-price p {
+.magazin .filter-box .filter-price .pOne {
   margin-top: 20px !important;
   font-weight: 500;
   font-size: 13px;
@@ -463,13 +463,10 @@ header nav.navbar .navs-box-three .active {
   outline: none;
 }
 .magazin .filter-box .filter-price .p {
-  margin-top: 35px;
-  margin-right: 125px;
   font-weight: 500;
   font-size: 10px;
   line-height: 12.19px;
   color: #959595;
-  display: inline-block;
 }
 .magazin .filter-box .filter-price .title {
   display: inline-block;
